@@ -2,7 +2,6 @@
 **CS 451 — Final Project**
 
 ## Christian Meraz-Santiago
-# Email: cjmerazsantiago@crimson.ua.edu
 
 ## Overview
 End-to-end data science pipeline applying unsupervised and supervised machine learning to 33 years of global earthquake data (1990–2023).
